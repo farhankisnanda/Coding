@@ -1,8 +1,15 @@
 Pembelajaran Coding yang sudah dilakukan secara otodidak
-- HTML 5
+- HTML 5 
+  (Pembelajaran via Website, HTML - Duniailkom)
 - CSS 
+  (Pembelajaran via Website, CSS - Duniailkom)
 - Git Lokal
+  (Pembelajaran via Youtube, Git - WPU)
 - Git Hub
+  (Pembelajaran via Youtube, Git - WPU)
 - Javascript (Masih kaku, dan harus diperdalami lagi)
+  (Pembelajaran via Youtube, Javascript - WPU)
 - Jquery (Sangat belum dimengerti)
+  (Pembelajaran via Youtube, NGOBAR #2 - WPU)
 - Bootstrap 4 (Lumayan)
+  (Pembelajaran via Youtube, NGOBAR #1,2,4,5)
