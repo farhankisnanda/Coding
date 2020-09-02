@@ -1,0 +1,8 @@
+Pembelajaran Coding yang sudah dilakukan secara otodidak
+- HTML 5
+- CSS 
+- Git Lokal
+- Git Hub
+- Javascript (Masih kaku, dan harus diperdalami lagi)
+- Jquery (Sangat belum dimengerti)
+- Bootstrap 4 (Lumayan)
